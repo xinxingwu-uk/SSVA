@@ -6,7 +6,9 @@ In practical teaching, we observe that few students thoroughly read or fully com
 
 ![image](./materials/Figure1.png)
 
+## Part (a)
 
-<video width="320" height="240" controls>
-  <source src="./materials/cse150.mp4" type="video/mp4">
-</video>
+
+MV is as follows:
+
+https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717

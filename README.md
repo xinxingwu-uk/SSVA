@@ -39,10 +39,7 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 
 ***Step 7***: Video Export and Deployment. The final animated video performance, typically exported in MP4 format (see MV below), is then ready for integration and deployment on various course platforms, such as Canvas or other LMSs.
 
-Regarding the virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
-
----
-## More examples
+***Note***: Regarding the virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
 
 <table class="center">
 <tr>

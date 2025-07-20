@@ -5,3 +5,8 @@ In practical teaching, we observe that few students thoroughly read or fully com
 ---
 
 ![image](./materials/Figure1.png)
+
+
+<video width="320" height="240" controls>
+  <source src="./materials/cse150.mp4" type="video/mp4">
+</video>

@@ -27,13 +27,10 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 
 <table class="center">
 <tr>
-    <td width=35% style="border: none">
+    <td width=50% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/9f2e267b-bdcd-47c1-a181-fc1b5afc9266" muted="false"></video>
     </td>
-    <td width=35% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/ba5b530c-6e80-4e07-a9fa-3aba12209205" muted="false"></video>
-    </td>
-    <td width=35% style="border: none">
+    <td width=50% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/ba5b530c-6e80-4e07-a9fa-3aba12209205" muted="false"></video>
     </td>
 </tr>

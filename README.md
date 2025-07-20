@@ -4,3 +4,4 @@ In practical teaching, we observe that few students thoroughly read or fully com
 
 ---
 
+![image](./materials/Figure1.png)

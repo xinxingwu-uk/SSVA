@@ -55,5 +55,7 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 <hr>
 
 More demos can be found here
-<video controls loop src="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/CSE300Low.mp4" muted="false"></video>
+
+![Demo 1](./materials/CSE300Low.mp4)
+
 

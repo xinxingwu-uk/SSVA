@@ -60,4 +60,4 @@ More demos can be found here
 
 <a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/MIS632Low.mp4">Demo 2</a>
 
-<a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/CSE300Low.mp4">Demo 3/a>
+<a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/CSE300Low.mp4">Demo 3</a>

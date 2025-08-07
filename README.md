@@ -56,6 +56,8 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 
 More demos can be found here
 
-![Demo 1](./materials/CSE300Low.mp4)
+<a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/CSE410Low.mp4">Demo 1</a>
 
+<a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/MIS632Low.mp4">Demo 2</a>
 
+<a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/CSE300Low.mp4">Demo 3/a>

@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 </tr>
 </table>
 
-Note 1: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
+Note: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
 
 <hr>
 

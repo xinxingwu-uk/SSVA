@@ -71,7 +71,7 @@ More demos can be found here
 
 ## Extension (January 2026)  
 
-- <a href="xinxingwu-ksu.github.io/projects/4_PlayerInAir/">Demo</a>
+<a href="xinxingwu-ksu.github.io/projects/4_PlayerInAir/">Demo</a>
 
 ![image](./materials/extension.gif)
 

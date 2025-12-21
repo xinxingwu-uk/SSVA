@@ -75,3 +75,12 @@ More demos can be found here
 
 ![image](./materials/extension.gif)
 
+
+
+---
+
+## License
+
+This repository is licensed under the terms specified in the [**LICENSE**](https://github.com/xinxingwu-uk/SSVA/blob/main/LICENSE) file.
+
+Please review the LICENSE before using, modifying, or redistributing any part of this project.

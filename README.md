@@ -7,7 +7,7 @@ Paper link [https://arxiv.org/abs/2508.11872](https://arxiv.org/abs/2508.11872)
 ---
 To bring the AI-sung syllabus concept to life, we developed a multi-stage pipeline integrating lyric generation, audio synthesis, avatar performance, and final video production. 
 
-To facilitate the virtual avatar performance, we customized a streamlined implementation of HeyGem specifically tailored for our educational context. This implementation provides a user-friendly workflow that effortlessly generates lifelike avatar performance videos from either textual or audio inputs. Users can simply upload a pre-generated audio file (in MP3 or WAV format) along with a reference video to produce visually compelling performances featuring photorealistic digital avatar singers. Our workflow ensures seamless synchronization between audio and expressive facial animations, including precise lip-sync and emotional delivery, enhancing the visual appeal and resonance of the syllabus content.
+
 
 ![image](./materials/Figure1.png)
 
@@ -29,6 +29,8 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 
 ---
 ## The implementation of Part (b)
+
+> To facilitate the virtual avatar performance, we customized a streamlined implementation of HeyGem specifically tailored for our educational context. This implementation provides a user-friendly workflow that effortlessly generates lifelike avatar performance videos from either textual or audio inputs. Users can simply upload a pre-generated audio file (in MP3 or WAV format) along with a reference video to produce visually compelling performances featuring photorealistic digital avatar singers. Our workflow ensures seamless synchronization between audio and expressive facial animations, including precise lip-sync and emotional delivery, enhancing the visual appeal and resonance of the syllabus content.
 
 ***Step 1***: Lyrical Script Generation. The original syllabus content is converted into an initial lyrical script using the AI language model ChatGPT (https://chatgpt.com/). 
 

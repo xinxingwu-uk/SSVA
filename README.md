@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 </table>
 
 ---
-The following runtime and execution details correspond to Steps 4–7 of the workflow above. 
+The following runtime and execution details correspond to Steps 4–7 of the workflow - <b>The implementation of Part (b)</b> above. 
 
 > To maximize accessibility and reproducibility, we developed a streamlined implementation of HeyGem utilizing cloud-based resources via Google Colab, thus eliminating the need for local GPU installation or complex setup procedures. Specifically, the implementation was deployed using Python 3.8 with an A100 GPU hardware accelerator. 
 

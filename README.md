@@ -60,15 +60,15 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 </table>
 
 ---
-> The following runtime and execution details correspond to Steps 4–7 of the workflow above. 
+The following runtime and execution details correspond to Steps 4–7 of the workflow above. 
 
-To maximize accessibility and reproducibility, we developed a streamlined implementation of HeyGem utilizing cloud-based resources via Google Colab, thus eliminating the need for local GPU installation or complex setup procedures. Specifically, the implementation was deployed using Python 3.8 with an A100 GPU hardware accelerator. 
+> To maximize accessibility and reproducibility, we developed a streamlined implementation of HeyGem utilizing cloud-based resources via Google Colab, thus eliminating the need for local GPU installation or complex setup procedures. Specifically, the implementation was deployed using Python 3.8 with an A100 GPU hardware accelerator. 
 
-The core script (run.py) was executed by specifying paths to the input audio and avatar video files using the following command:
+> The core script (run.py) was executed by specifying paths to the input audio and avatar video files using the following command:
 
-!python3.8 run.py --audio_path example/song.mp3 --video_path example/videoSing.mp4
+```!python3.8 run.py --audio_path example/song.mp3 --video_path example/videoSing.mp4```
 
-Upon completion, the final avatar singing video was automatically saved in the designated folder in Google Drive.
+> Upon completion, the final avatar singing video was automatically saved in the designated folder in Google Drive.
 
 Note: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
 

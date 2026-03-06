@@ -5,6 +5,9 @@ In practical teaching, we observe that few students thoroughly read or fully com
 Paper link [https://arxiv.org/abs/2508.11872](https://arxiv.org/abs/2508.11872)
 
 ---
+To bring the AI-sung syllabus concept to life, we developed a multi-stage pipeline integrating lyric generation, audio synthesis, avatar performance, and final video production. 
+
+To facilitate the virtual avatar performance, we customized a streamlined implementation of HeyGem specifically tailored for our educational context. This implementation provides a user-friendly workflow that effortlessly generates lifelike avatar performance videos from either textual or audio inputs. Users can simply upload a pre-generated audio file (in MP3 or WAV format) along with a reference video to produce visually compelling performances featuring photorealistic digital avatar singers. Our workflow ensures seamless synchronization between audio and expressive facial animations, including precise lip-sync and emotional delivery, enhancing the visual appeal and resonance of the syllabus content.
 
 ![image](./materials/Figure1.png)
 

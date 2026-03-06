@@ -46,19 +46,6 @@ https://github.com/user-attachments/assets/1a18c738-5fee-430d-8e68-0087135ba717
 
 ***Step 7***: Video Export and Deployment. The final animated video performance, typically exported in MP4 format (see MV below), is then ready for integration and deployment on various course platforms, such as Canvas or other LMSs.
 
-***Note***: Regarding the implementation of virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
-
-<table class="center">
-<tr>
-    <td height=300px style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/ba5b530c-6e80-4e07-a9fa-3aba12209205" muted="false"></video>
-    </td>
-    <td height=300px style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/9f2e267b-bdcd-47c1-a181-fc1b5afc9266" muted="false"></video>
-    </td>
-</tr>
-</table>
-
 ---
 The following runtime and execution details correspond to Steps 4–7 of the workflow - <b>The implementation of Part (b)</b> above. 
 
@@ -70,7 +57,22 @@ The following runtime and execution details correspond to Steps 4–7 of the wor
 
 > Upon completion, the final avatar singing video was automatically saved in the designated folder in Google Drive.
 
-Note: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
+
+***Note***: Regarding the implementation of virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
+
+---
+<table class="center">
+<tr>
+    <td height=300px style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/ba5b530c-6e80-4e07-a9fa-3aba12209205" muted="false"></video>
+    </td>
+    <td height=300px style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/9f2e267b-bdcd-47c1-a181-fc1b5afc9266" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+***Note***: We have observed that the model performs suboptimally when tested on animation videos. This is likely because the underlying model was primarily trained on real, human-centric datasets. As a result, its ability to generalize to animation videos is limited, and the outputs in these cases may be less accurate or realistic.
 
 <hr>
 

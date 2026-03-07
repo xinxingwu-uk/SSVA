@@ -87,7 +87,7 @@ More demos can be found here
 
 <hr>
 
-## Extension (January 2026)  
+## Extension 1 (January 2026)  
 
 <a href="https://xinxingwu-ksu.github.io/projects/4_PlayerInAir/">Demo</a>
 
@@ -95,7 +95,7 @@ More demos can be found here
 
 ---
 
-## Extension (March 2026)  
+## Extension 2 (March 2026)  
 
 <a href="https://xinxingwu-ksu.github.io/projects/WebInAirExtened/">Demo</a>
 

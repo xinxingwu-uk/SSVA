@@ -91,7 +91,7 @@ More demos can be found here
 
 <a href="https://xinxingwu-ksu.github.io/projects/4_PlayerInAir/">Demo</a>
 
-![image](./materials/extension.gif)
+![image](./materials/DemoTry.gif)
 
 
 

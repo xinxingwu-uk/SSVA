@@ -91,9 +91,15 @@ More demos can be found here
 
 <a href="https://xinxingwu-ksu.github.io/projects/4_PlayerInAir/">Demo</a>
 
+![image](./materials/extension.gif)
+
+---
+
+## Extension (March 2026)  
+
+<a href="https://xinxingwu-ksu.github.io/projects/WebInAirExtened/">Demo</a>
+
 ![image](./materials/DemoTry.gif)
-
-
 
 ---
 

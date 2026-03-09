@@ -67,6 +67,7 @@ The following runtime and execution details correspond to Steps 4–7 of the wor
 ***Note 2***: Regarding the implementation of virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
 
 ---
+## Section 3 - Examples
 
 ### Example Workflow for Generating a Video from Audio and a Reference Video
 
@@ -125,9 +126,10 @@ More demos can be found here
 <a href="https://github.com/xinxingwu-uk/SSVA/blob/main/materials/CSE300Low.mp4">Demo 3</a>
 
 
-<hr>
+---
+## Section 4 - Extensions
 
-## Extension 1 (January 2026)  
+### Extension 1 (January 2026)  
 
 <a href="https://xinxingwu-ksu.github.io/projects/4_PlayerInAir/">Demo</a>
 
@@ -135,7 +137,7 @@ More demos can be found here
 
 ---
 
-## Extension 2 (March 2026)  
+### Extension 2 (March 2026)  
 
 <a href="https://xinxingwu-ksu.github.io/projects/WebInAirExtened/">Demo</a>
 

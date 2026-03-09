@@ -64,6 +64,40 @@ The following runtime and execution details correspond to Steps 4–7 of the wor
 ***Note 2***: Regarding the implementation of virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
 
 ---
+
+### Example Workflow for Generating a Video from Audio and a Reference Video
+
+- Audio + Reference Video → Generated Video ([Audio2Video.ipynb](https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/Audio2Video.ipynb))
+
+<table class="center">
+<tr>
+    <td width=30% style="border: none">
+        Input - Audio
+    </td>
+    <td width=35% style="border: none">
+        Input - Reference Video
+    </td>
+    <td width=35% style="border: none">
+        Output - Generated Video
+    </td>
+</tr>
+
+<tr>
+    <td width=30% style="border: none">
+       <a href="https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/blob/main/resources/audio2videoAudio.mp3">Audio</a>
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/dc00158b-940c-4bc9-9556-7599c086b626" muted="false"></video>
+    </td>
+    <td width=35% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/a43c099c-c013-4cde-9d01-131ef0398590" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+---
+
+###  Generated Video examples from Audio and a Reference Video
 <table class="center">
 <tr>
     <td height=300px style="border: none">

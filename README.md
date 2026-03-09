@@ -7,7 +7,6 @@ Paper link [https://arxiv.org/abs/2508.11872](https://arxiv.org/abs/2508.11872)
 ---
 To bring the AI-sung syllabus concept to life, we developed a multi-stage pipeline integrating lyric generation, audio synthesis, avatar performance, and final video production. 
 
-***Note***: For greater accessibility, we provided a user-friendly Google Colab project, featuring a Python-based implementation of HeyGem. The developed approach allowed users to input text or audio along with a reference video and then generate lifelike singing performances using digital human models powered by deep learning techniques. 
 
 
 
@@ -60,7 +59,9 @@ The following runtime and execution details correspond to Steps 4–7 of the wor
 > Upon completion, the final avatar singing video was automatically saved in the designated folder in Google Drive.
 
 
-***Note***: Regarding the implementation of virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
+***Note 1***: For greater accessibility, we provided a user-friendly Google Colab project, featuring a Python-based implementation of HeyGem. The developed approach allowed users to input text or audio along with a reference video and then generate lifelike singing performances using digital human models powered by deep learning techniques. 
+
+***Note 2***: Regarding the implementation of virtual avatar performance, for more details, see https://github.com/xinxingwu-uk/Colab_Implementation-HeyGem/tree/main
 
 ---
 <table class="center">
